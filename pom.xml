@@ -9,7 +9,7 @@
 	<groupId>com.sixdimensions.commons.osgi.wrapper</groupId>
 	<artifactId>jaxrpc-api</artifactId>
 	<packaging>bundle</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 
 	<name />
 	<description>This bundle wraps jaxrpc-api-1.1.jar and makes it work in Apache Felix.</description>
